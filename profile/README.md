@@ -1,4 +1,4 @@
 
 ## MatixTools
 
-Where code gets stuffed.
+Where stuff gets stuffed.
